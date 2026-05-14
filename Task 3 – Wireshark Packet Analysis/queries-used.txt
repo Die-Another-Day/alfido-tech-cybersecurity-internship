@@ -1,0 +1,14 @@
+tcp.port == 3942 || udp.port == 3942
+icmp
+dns.flags.response == 1
+frame contains "password"
+ftp
+tcp.port == 8081
+frame contains "Borden"
+udp
+tcp.flags.syn == 1 && tcp.flags.ack == 1
+http.user_agent
+ip.ttl == 38
+frame contains ".png"
+frame contains ".zip"
+tcp.checksum == 53203

@@ -1,20 +1,99 @@
-# Wireshark-Forensics-Practice
-“A collection of 5 network forensic labs analyzing PCAPs for MitM attacks, data exfiltration, and compromised Windows hosts using Wireshark and TCPDump.”
+# Task 3 – Wireshark Packet Analysis
 
-#🎯 Key Scenarios Analyzed
-Network Fundamentals: Identifying top talkers and DNS query patterns.
+## Alfido Tech Cybersecurity Internship
 
-Windows Compromise: Tracking an attacker through a remote shell on port 8081.
+### Submitted By
 
-Man-in-the-Middle: Detecting ARP poisoning and intercepting exfiltrated employee data.
+* **Name:** Eeshan Garg
+* **Candidate ID:** BS/REG/120082
+* **Role:** Cybersecurity Intern
 
-Traffic Volumetrics: Quantifying TCP SYN-ACK handshakes and identifying Chrome versions.
+---
 
-Web & Service Forensics: Inspecting OpenSSH banners and recovering proprietary assets.
+## Overview
 
-#🚀 How to Practice
-Clone this repository.
+This task focuses on analyzing multiple PCAP (Packet Capture) files using Wireshark to investigate network traffic, identify suspicious activity, analyze protocols, and perform digital forensic analysis.
 
-Open the files in [/PCAP's](https://github.com/Die-Another-Day/Wireshark-Forensics-Practice/tree/main/PCAP'S) using Wireshark.
+The investigation includes:
 
-Check my [Medium Write-up](https://eeshan-agrawal.medium.com/uncovering-the-wire-a-deep-dive-into-network-forensics-with-wireshark-75f2da3a3de8) to follow the step-by-step investigation!
+* Network traffic analysis
+* Protocol inspection
+* Incident response techniques
+* Credential discovery
+* ARP spoofing detection
+* Data exfiltration analysis
+* Service enumeration
+
+---
+
+## Tools Used
+
+* Wireshark
+* TCPDump
+* Ubuntu Linux
+
+---
+
+## Topics Covered
+
+### PCAP 1 – Network Fundamentals
+
+* DNS analysis
+* ICMP traffic inspection
+* Endpoint statistics
+* Protocol identification
+
+### PCAP 2 – Compromised Windows Host
+
+* Credential discovery
+* FTP analysis
+* Remote access investigation
+* File discovery
+
+### PCAP 3 – MITM & ARP Spoofing
+
+* ARP poisoning detection
+* Data interception
+* SSH credential discovery
+* File transfer analysis
+
+### PCAP 4 – Traffic Volumetrics
+
+* TCP/UDP packet analysis
+* TTL analysis
+* User-Agent identification
+
+### PCAP 5 – Web Server & Service Analysis
+
+* OpenSSH version detection
+* Web asset discovery
+* Service banner analysis
+
+---
+
+## Repository Contents
+
+| File/Folder                            | Description                                  |
+| -------------------------------------- | -------------------------------------------- |
+| Task 3 – Wireshark Packet Analysis.pdf | Final internship report                      |
+| screenshots/                           | Evidence screenshots from Wireshark analysis |
+| pcap-files/                            | PCAP files used during investigation         |
+| queries-used.txt                       | Wireshark display filters and queries        |
+
+---
+
+## Key Skills Demonstrated
+
+* Packet Analysis
+* Network Forensics
+* Traffic Monitoring
+* Incident Response
+* Threat Detection
+* Protocol Analysis
+* Digital Investigation
+
+---
+
+## Author
+
+Eeshan Garg

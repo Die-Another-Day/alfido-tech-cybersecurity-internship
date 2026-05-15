@@ -2,6 +2,12 @@
 <p align="center">
   <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/bdfb8a68-f441-4569-b660-20faec1aa2cd" />
 </p>
+
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-green)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue)
+![Nmap](https://img.shields.io/badge/Tool-Nmap-red)
+![DVWA](https://img.shields.io/badge/Lab-DVWA-orange)
+
 ## Overview
 
 This repository contains the practical tasks completed during the Alfido Tech Cybersecurity Internship. The internship focused on cybersecurity fundamentals, vulnerability assessment, web application security testing, and network traffic analysis.
@@ -113,3 +119,8 @@ alfido-tech-cybersecurity-internship/
 ## Eeshan Garg
 
 Cybersecurity Enthusiast | Security Researcher | Network Security Learner
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/eeshangarg888/)
+- [GitHub](https://github.com/Die-Another-Day) 

@@ -1,5 +1,7 @@
 # Alfido Tech Cybersecurity Internship
-
+<p align="center">
+  <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/bdfb8a68-f441-4569-b660-20faec1aa2cd" />
+</p>
 ## Overview
 
 This repository contains the practical tasks completed during the Alfido Tech Cybersecurity Internship. The internship focused on cybersecurity fundamentals, vulnerability assessment, web application security testing, and network traffic analysis.
